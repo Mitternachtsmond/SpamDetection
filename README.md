@@ -8,7 +8,7 @@ This project allows a user to detect whether an email is a spam or a ham. The us
 4. Bootstrap-5 - CSS Framework to make responsive webpages
 5. Sklearn - Simple and efficient tool for predictive analysis
 6. Nltk - Natural Language Toolkit
-7. Netlify - To host a website
+7. Heroku - To host a website
 
 ### Team Members
 
