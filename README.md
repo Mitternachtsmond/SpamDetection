@@ -28,4 +28,4 @@ This project is made by Group-19, following are the Team Members:
 5. Logistic Regression
 
 ### Website
-The Website can be found at
+The Website can be found at https://spam-detector-iiti.herokuapp.com/
