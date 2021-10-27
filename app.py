@@ -1,12 +1,7 @@
-import re
 from flask import Flask,render_template,request
-from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import TfidfVectorizer as tf
 import pickle
 import nltk
 nltk.download('punkt')
-
-
 
 app = Flask(__name__)
 loaded_model = pickle.load(open('SVM.sav', 'rb'))
@@ -23,9 +18,7 @@ def index():
             result='not spam'
         else:
             result='spam'
-        return render_template ('result.html', text= text, result = result )
-
-
+        return render_template ('index.html', text= text, result = result )
 
 if __name__ == 'main':
-    app.run(debug=True)
+    app.run()
