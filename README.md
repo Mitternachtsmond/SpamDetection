@@ -21,12 +21,12 @@ This project is made by Group-19, following are the Team Members:
 5. Vihaan Thora (200001079)
 
 ### Accuracies of Different Models
-1. Naive Bayes
-2. SVM
-3. Random Forest
-4. KNN
-5. Logistic Regression
-6. MultinomialDB
+1. Naive Bayes 93.80
+2. SVM 98.70
+3. Random Forest 97.97
+4. KNN 85.70
+5. Logistic Regression 85.70
+6. MultinomialDB 97.70
 
 ### Website
 The Website can be found at https://spam-detector-iiti.herokuapp.com/
