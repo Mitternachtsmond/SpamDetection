@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer as tf
 import pickle
 import nltk
+nltk.download('punkt')
 
 
 
