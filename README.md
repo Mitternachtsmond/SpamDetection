@@ -26,6 +26,7 @@ This project is made by Group-19, following are the Team Members:
 3. Random Forest
 4. KNN
 5. Logistic Regression
+6. MultinomialDB
 
 ### Website
 The Website can be found at https://spam-detector-iiti.herokuapp.com/
